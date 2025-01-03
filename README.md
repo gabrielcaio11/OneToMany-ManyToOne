@@ -200,5 +200,5 @@ Cada cliente pode ter vários pedidos, enquanto cada pedido está associado a um
 ```
 ## Contato
 
-- **LinkedIn:** [Gabriel Caio](https://www.linkedin.com/in/gabriel-caio/)
+- **Linkedin:** [Gabriel Caio](https://www.linkedin.com/in/gabriel-caio/)
 
